@@ -10,7 +10,7 @@ Many features include helpful tooltips, configurable hotkeys, and smart automati
 
 ### 🔗 Want to try it out?
 Join our Discord for access and updates:  
-**https://discord.gg/your-server-link**
+**https://discord.gg/your-server-link](https://discord.gg/kKBJ7ctfzM**
 
 ---
 
