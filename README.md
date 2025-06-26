@@ -37,11 +37,3 @@ Join our Discord for access, updates, and support:
 | ✅ Update From Database          |                                     |
 
 ---
-
-### 🏷 Recommended GitHub Topics
-
-To make your repository easier to find, consider adding these topics/tags in your GitHub repository settings:
-
-`trove`, `trove-cheat`, `trove-hack`, `silent-aim`, `aimbot`,  
-`free-cheat`, `public-cheat`, `game-hack`, `bots`, `noclip`,  
-`exploit`, `trove-exploit`
