@@ -2,14 +2,15 @@
 
 **BetterMultiCheat** is a completely free and public cheat for the game **Trove**.
 
-It includes a powerful collection of features designed to enhance your gameplay experience, automate repetitive tasks, and offer advanced functionalities like aimbots, bot-following, and performance tweaking tools.  
-Whether you're looking to AFK fish, speed-farm dungeons, or just experiment with fun mechanics like no-clip or silent aim, this cheat provides a reliable and customizable toolkit.
+It offers a rich set of powerful features to enhance gameplay, automate repetitive tasks, and unlock advanced mechanics such as silent aimbot, no-clip, and bot-following.  
+Whether you're AFK fishing, farming, or experimenting with fun mechanics, BetterMultiCheat delivers a reliable and customizable toolset.
 
-It's built for convenience, constantly updated, and supports both casual and advanced users.  
-Many features include helpful tooltips, configurable hotkeys, and smart automation to make it as smooth as possible.
+The cheat is designed with usability in mind – includes smart automation, configurable hotkeys, helpful tooltips, and regular updates.
+
+---
 
 ### 🔗 Want to try it out?
-Join our Discord for access and updates:  
+Join our Discord for access, updates, and support:  
 **https://discord.gg/kKBJ7ctfzM**
 
 ---
@@ -34,3 +35,13 @@ Join our Discord for access and updates:
 | ✅ Show/Edit Memory Addresses    | ✅ Tooltips for All Options         |
 | ✅ Reload UI                     | ✅ Update Local File                |
 | ✅ Update From Database          |                                     |
+
+---
+
+### 🏷 Recommended GitHub Topics
+
+To make your repository easier to find, consider adding these topics/tags in your GitHub repository settings:
+
+`trove`, `trove-cheat`, `trove-hack`, `silent-aim`, `aimbot`,  
+`free-cheat`, `public-cheat`, `game-hack`, `bots`, `noclip`,  
+`exploit`, `trove-exploit`
