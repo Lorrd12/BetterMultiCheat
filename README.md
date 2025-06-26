@@ -1,5 +1,18 @@
-# BetterMultiCheat
-Free public cheat for Trove – BetterMultiCheat | Includes Following Bots hack, Silent Aim &amp; more – Join our Discord for access!
+# BetterMultiCheat for Trove
+
+**BetterMultiCheat** is a completely free and public cheat for the game **Trove**.
+
+It includes a powerful collection of features designed to enhance your gameplay experience, automate repetitive tasks, and offer advanced functionalities like aimbots, bot-following, and performance tweaking tools.  
+Whether you're looking to AFK fish, speed-farm dungeons, or just experiment with fun mechanics like no-clip or silent aim, this cheat provides a reliable and customizable toolkit.
+
+It's built for convenience, constantly updated, and supports both casual and advanced users.  
+Many features include helpful tooltips, configurable hotkeys, and smart automation to make it as smooth as possible.
+
+### 🔗 Want to try it out?
+Join our Discord for access and updates:  
+**https://discord.gg/your-server-link**
+
+---
 
 ## ✅ Features Overview
 
