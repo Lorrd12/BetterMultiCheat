@@ -1,11 +1,6 @@
 # BetterMultiCheat for Trove
 
-**BetterMultiCheat** is a completely free and public cheat for the game **Trove**.
-
-It offers a rich set of powerful features to enhance gameplay, automate repetitive tasks, and unlock advanced mechanics such as silent aimbot, no-clip, and bot-following.  
-Whether you're AFK fishing, farming, or experimenting with fun mechanics, BetterMultiCheat delivers a reliable and customizable toolset.
-
-The cheat is designed with usability in mind – includes smart automation, configurable hotkeys, helpful tooltips, and regular updates.
+**BetterMultiCheat** is a completely free and public cheat for the game **Trove**
 
 ---
 
